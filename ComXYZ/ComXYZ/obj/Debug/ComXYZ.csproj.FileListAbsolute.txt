@@ -1,0 +1,9 @@
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Debug\ResolveAssemblyReference.cache
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Debug\ComXYZ.ComZ.resources
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Debug\ComXYZ.ComY.resources
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Debug\GenerateResource.read.1.tlog
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Debug\GenerateResource.write.1.tlog
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\bin\Debug\ComXYZ.dll
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\bin\Debug\ComXYZ.pdb
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Debug\ComXYZ.dll
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Debug\ComXYZ.pdb

@@ -1,0 +1,21 @@
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\bin\Release\TestComY.exe
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\bin\Release\TestComY.pdb
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Release\TestComY.Form1.resources
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Release\TestComY.Properties.Resources.resources
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Release\TestComY.exe
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Release\TestComY.pdb
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\bin\Release\ComXYZ.dll
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\bin\Release\ComXYZ.pdb
+D:\Design2018\PC Design\Engineer\ComXYZ\TestComY\obj\x86\Release\TestComY.exe
+D:\Design2018\PC Design\Engineer\ComXYZ\TestComY\obj\x86\Release\TestComY.pdb
+D:\Design2018\PC Design\Engineer\ComXYZ\TestComY\bin\Release\TestComY.exe
+D:\Design2018\PC Design\Engineer\ComXYZ\TestComY\bin\Release\TestComY.pdb
+D:\Design2018\PC Design\Engineer\ComXYZ\TestComY\bin\Release\ComXYZ.dll
+D:\Design2018\PC Design\Engineer\ComXYZ\TestComY\bin\Release\ComXYZ.pdb
+D:\Design2018\PC Design\Engineer\ComXYZ\TestComY\obj\x86\Release\TestComY.csprojResolveAssemblyReference.cache
+D:\Design2018\PC Design\Engineer\ComXYZ\TestComY\obj\x86\Release\TestComY.Form1.resources
+D:\Design2018\PC Design\Engineer\ComXYZ\TestComY\obj\x86\Release\TestComY.Properties.Resources.resources
+D:\Design2018\PC Design\Engineer\ComXYZ\TestComY\obj\x86\Release\TestComY.csproj.GenerateResource.Cache

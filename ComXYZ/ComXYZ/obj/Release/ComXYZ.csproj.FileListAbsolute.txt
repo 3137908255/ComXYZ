@@ -1,0 +1,25 @@
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\ResolveAssemblyReference.cache
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\ComXYZ.ComZ.resources
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\ComXYZ.ComY.resources
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\GenerateResource.read.1.tlog
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\GenerateResource.write.1.tlog
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\bin\Release\ComXYZ.dll
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\bin\Release\ComXYZ.pdb
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\ComXYZ.dll
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\ComXYZ.pdb
+D:\Design2018\PC Design\Engineer\ComXYZ\EngineerSetting\bin\Release\ComXYZ.dll
+D:\Design2018\PC Design\Engineer\ComXYZ\EngineerSetting\bin\Release\ComXYZ.pdb
+D:\Design2018\PC Design\Engineer\ComXYZ\EngineerSetting\obj\Release\ComXYZ.csprojResolveAssemblyReference.cache
+D:\Design2018\PC Design\Engineer\ComXYZ\EngineerSetting\obj\Release\ComXYZ.ComZ.resources
+D:\Design2018\PC Design\Engineer\ComXYZ\EngineerSetting\obj\Release\ComXYZ.ComY.resources
+D:\Design2018\PC Design\Engineer\ComXYZ\EngineerSetting\obj\Release\ComXYZ.csproj.GenerateResource.Cache
+D:\Design2018\PC Design\Engineer\ComXYZ\EngineerSetting\obj\Release\ComXYZ.dll
+D:\Design2018\PC Design\Engineer\ComXYZ\EngineerSetting\obj\Release\ComXYZ.pdb
+D:\Design2018\PC Design\Engineer\ComXYZ\ComXYZ\bin\Release\ComXYZ.dll
+D:\Design2018\PC Design\Engineer\ComXYZ\ComXYZ\bin\Release\ComXYZ.pdb
+D:\Design2018\PC Design\Engineer\ComXYZ\ComXYZ\obj\Release\ComXYZ.csprojResolveAssemblyReference.cache
+D:\Design2018\PC Design\Engineer\ComXYZ\ComXYZ\obj\Release\ComXYZ.ComZ.resources
+D:\Design2018\PC Design\Engineer\ComXYZ\ComXYZ\obj\Release\ComXYZ.ComY.resources
+D:\Design2018\PC Design\Engineer\ComXYZ\ComXYZ\obj\Release\ComXYZ.csproj.GenerateResource.Cache
+D:\Design2018\PC Design\Engineer\ComXYZ\ComXYZ\obj\Release\ComXYZ.dll
+D:\Design2018\PC Design\Engineer\ComXYZ\ComXYZ\obj\Release\ComXYZ.pdb

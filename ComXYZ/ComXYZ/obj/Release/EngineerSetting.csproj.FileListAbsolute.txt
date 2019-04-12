@@ -1,0 +1,24 @@
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\bin\Release\EngineerSetting.dll
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\bin\Release\EngineerSetting.pdb
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\EngineerSetting.ComX.resources
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\EngineerSetting.ConfigCtl.resources
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\EngineerSetting.FormBtnText.resources
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\EngineerSetting.ProtocolCtl.resources
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\EngineerSetting.SerialPortX.resources
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\EngineerSetting.TextLines.resources
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\EngineerSetting.TextPages.resources
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\EngineerSetting.dll
+D:\My Documents\Visual Studio 2010\Engineer\EngineerSetting\obj\Release\EngineerSetting.pdb
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\bin\Release\EngineerSetting.dll
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\bin\Release\EngineerSetting.pdb
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\ResolveAssemblyReference.cache
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\EngineerSetting.ComX.resources
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\EngineerSetting.ComZ.resources
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\EngineerSetting.ComY.resources
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\GenerateResource.read.1.tlog
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\GenerateResource.write.1.tlog
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\EngineerSetting.dll
+D:\Design\Csharp\Engineer\ComXYZ\EngineerSetting\obj\Release\EngineerSetting.pdb

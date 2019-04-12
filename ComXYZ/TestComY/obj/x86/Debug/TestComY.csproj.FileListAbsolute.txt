@@ -1,0 +1,11 @@
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\bin\Debug\TestComY.exe
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\bin\Debug\TestComY.pdb
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Debug\TestComY.Form1.resources
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Debug\TestComY.Properties.Resources.resources
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Debug\TestComY.exe
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\obj\x86\Debug\TestComY.pdb
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\bin\Debug\ComXYZ.dll
+D:\Design\Csharp\Engineer\ComXYZ\TestComY\bin\Debug\ComXYZ.pdb
